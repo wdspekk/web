@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    margin: 5%;
+}
+
+h1, h2, h3 {
+    font-family: "Ubuntu Mono", monospace;
+}
+        
+h1 {
+    color: DeepSkyBlue;
+}
+   
+h2 {
+    color: Orchid;
+}
+
+h3 {
+    color: Gold;
+}
+
+p {
+    color: Snow;
+    font-family: "Ubuntu", sans-serif;
+}
+
+p strong, p b {
+    color: Orchid;
+}
+
+p em, p i {
+    color: Gold;
+}
