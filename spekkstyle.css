@@ -1,6 +1,10 @@
 body {
     background-color: black;
-    margin: 5%;
+    margin: 2%;
+    padding: 2%;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: Snow;
 }
 
 h1, h2, h3 {
