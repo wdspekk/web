@@ -35,3 +35,7 @@ p strong, p b {
 p em, p i {
     color: Gold;
 }
+
+a {
+    color: DeepSkyBlue;
+}
