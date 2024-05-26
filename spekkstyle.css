@@ -39,3 +39,9 @@ p em, p i {
 a {
     color: DeepSkyBlue;
 }
+
+.navbar {
+    margin: 2%;
+    text-align: center;
+}
+
