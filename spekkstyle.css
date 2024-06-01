@@ -43,5 +43,6 @@ a {
 .navbar {
     margin: 2%;
     text-align: center;
+    font-family: "Ubuntu Mono", monospace;
 }
 
